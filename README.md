@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maksim!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maksim!+Web-developer+from+Belarus!;" />
 </h1>
 
 <div align="center">
@@ -22,12 +22,10 @@
 
  <hr/>
  
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,javascript,typescript" /><br>
 </div>
 
-<br/>
 <hr/>
 
 <div align="center">
