@@ -27,8 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,javascript,typescript" /><br>
 </div>
 
 <br/>
@@ -46,8 +45,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-###
-![Codewars](https://github.r2v.ch/codewars?user=allmute&name=true&stroke=%23b362ff&theme=purple_dark)
-###
+![Codewars](https://github.r2v.ch/codewars?user=allmute)
 
 <br/><br/>
