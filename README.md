@@ -5,8 +5,6 @@
 </h1>
 
 <div align="center">
- 
- 🌱 I’m currently learning **React, TypeScript, Angular**
 
  </div>
  
@@ -24,7 +22,6 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,github,figma,javascript,typescript" /><br>
@@ -34,8 +31,6 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
